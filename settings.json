@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "dripstonesurvival.joinmc.worldme",
+    "ip": "dripstonesurvival.joinmc.world",
     "port": 38640,
     "version": "",
     "try-creative": false
