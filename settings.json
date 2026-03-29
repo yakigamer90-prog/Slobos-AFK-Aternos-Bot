@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "CreativeCraftSMP.aternos.me",
-    "port": 52427,
+    "ip": "dripstonesurvival.joinmc.worldme",
+    "port": 38640,
     "version": "",
     "try-creative": false
   },
