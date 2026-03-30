@@ -9,7 +9,7 @@
     "ip": "dripstonesurvival.joinmc.world",
     "port": 38640,
     "version": "",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
@@ -29,7 +29,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay":1000,
       "messages": [
         "I'm a regular player",
         "Don't listen to me!",
